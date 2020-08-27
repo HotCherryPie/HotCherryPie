@@ -1,1 +1,1 @@
-![](/README.gif){:width="100%"}
+<img src="/README.gif" width="100%">
