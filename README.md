@@ -1,5 +1,5 @@
-<img src="https://im7.ezgif.com/tmp/ezgif-7-0d4c3e776561.gif" align="left" height="160px" style="border-radius: 10px;">
-<img src="https://im7.ezgif.com/tmp/ezgif-7-0d4c3e776561.gif" align="right" height="160px" style="border-radius: 10px;">
+<img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="160px" style="border-radius: 10px;">
+<img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="160px" style="border-radius: 10px;">
 <p align="center">
   <a href="https://github.com/HotCherryPie/gpt.js"><img src="https://img.shields.io/badge/gpt-F7DF1E?logo=javascript&labelColor=F7DF1E&logoColor=white" /></a>
   <a href="https://github.com/HotCherryPie/gpt.vue"><img src="https://img.shields.io/badge/gpt-3fb984?logo=vue.js&labelColor=3fb984&logoColor=white" /></a>
