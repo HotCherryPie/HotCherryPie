@@ -1,3 +1,4 @@
+<!-- https://github.com/sindresorhus/css-in-readme-like-wat -->
 <img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px" style="border-radius: 10px;">
 <img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px" style="border-radius: 10px;">
 <p align="center">
