@@ -14,8 +14,9 @@
   <a href="https://github.com/HotCherryPie/doodles.vue"><img src="https://img.shields.io/badge/-doodles-3fb984?logo=vue.js&labelColor=3fb984&logoColor=white" /></a>
   <a href="https://github.com/HotCherryPie/doodles.react"><img src="https://img.shields.io/badge/-doodles-61dafb?logo=react&labelColor=61dafb&logoColor=white" /></a>
   <br>
-  <a href="https://gist.github.com/HotCherryPie/5ad6f22482dde2814e8d9ca58e4f6e55"><img src="https://img.shields.io/badge/🔖_bookmarks-public-dodgerblue?labelColor=fafafa" /></a>
+  <a href="https://gist.github.com/HotCherryPie/5ad6f22482dde2814e8d9ca58e4f6e55"><img src="https://img.shields.io/badge/🔖_bookmarks-public-00e600?labelColor=fafafa" /></a>
   <a href=""><img src="https://img.shields.io/badge/🔖_bookmarks-private-crimson?labelColor=fafafa" /></a>
+  <a href=""><img src="https://img.shields.io/badge/🔖_bookmarks-toolbox-dodgerblue?labelColor=fafafa" /></a>
   <br>
   <a href="https://codepen.io/amazing-vishnya"><img src="https://img.shields.io/badge/codepen-1e1f26?logo=codepen&labelColor=1e1f26&logoColor=white" /></a>
   <br>
