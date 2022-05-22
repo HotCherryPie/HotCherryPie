@@ -2,6 +2,12 @@
 <!-- https://github.com/AsyncBanana/AsyncBanana -->
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
+<div align="center">
+	<br>
+	<img src="main.svg" width="800" height="400" alt="Click to see the source">
+	<br>
+</div>
+
 <p align="left"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px"></p>
 <p align="right"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px"></p>
 
