@@ -2,7 +2,10 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style></style>
-			<div><p align="center">
+			<div>
+				<img align="left" src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" height="220px">
+				<img align="right" src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" height="220px">
+				<p align="center">
 					<br>
 					<a href="https://github.com/HotCherryPie/gpt.js"><img src="https://img.shields.io/badge/gpt-F7DF1E?logo=javascript&labelColor=F7DF1E&logoColor=white" /></a>
 					<a href="https://github.com/HotCherryPie/gpt.vue"><img src="https://img.shields.io/badge/gpt-3fb984?logo=vue.js&labelColor=3fb984&logoColor=white" /></a>
