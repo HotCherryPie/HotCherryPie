@@ -2,8 +2,8 @@
 <!-- https://github.com/AsyncBanana/AsyncBanana -->
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
-<p style="float: right;"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px" style="border-radius: 10px;"></p>
-<p style="float: right;"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px" style="border-radius: 10px;"></p>
+<p align="left"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px"></p>
+<p align="right"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px"></p>
 
 <p align="center">
 <!--   <a href="https://github.com/HotCherryPie/gpt.js"><img src="https://img.shields.io/badge/-🍑-ed0c38" /></a> -->
