@@ -8,8 +8,8 @@
 	<br>
 </div>
 
-<p align="left"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px"></p>
-<p align="right"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px"></p>
+<span align="left"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="left" height="220px"></span>
+<span align="right"><img src="https://github.com/HotCherryPie/HotCherryPie/blob/master/kaban.gif?raw=true" align="right" height="220px"></span>
 
 <p align="center">
 <!--   <a href="https://github.com/HotCherryPie/gpt.js"><img src="https://img.shields.io/badge/-🍑-ed0c38" /></a> -->
