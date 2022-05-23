@@ -8,7 +8,7 @@
 
 <!-- <p align="center">════ ⋆★⋆ ════</p> -->
 <p align="center"> ⋆★⋆ </p>
-<h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>CherryPie</samp> <img height="18px" src="./lickL.gif" /></h1>
+<h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1>
 
 <img src="/kaban.svg" align="left" height="220px">
 <img src="/kaban.svg" align="right" height="220px">
