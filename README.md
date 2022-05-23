@@ -3,7 +3,7 @@
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
 <h6 align="center">Hi, I'am</h6>
-<h1 align="center"><img height="30px" src="./lickR.gif" /> CherryPie <img height="30px" src="./lickL.gif" /></h1>
+<h1 align="center"><img height="24px" src="./lickR.gif" /> CherryPie <img height="24px" src="./lickL.gif" /></h1>
 
 <img src="/kaban.svg" align="left" height="220px">
 <img src="/kaban.svg" align="right" height="220px">
