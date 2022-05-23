@@ -2,7 +2,8 @@
 <!-- https://github.com/AsyncBanana/AsyncBanana -->
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
-<h6 align="center">Hi, I'am</h6>
+<br>
+
 <h1 align="center"><img height="24px" src="./lickR.gif" /> CherryPie <img height="24px" src="./lickL.gif" /></h1>
 
 <img src="/kaban.svg" align="left" height="220px">
