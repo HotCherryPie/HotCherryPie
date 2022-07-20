@@ -33,7 +33,7 @@
   <br>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-peach%231234-434cb0?logo=discord&logoColor=white&labelColor=5865f2" /></a>
   <br>
-  <!-- <a href="https://genshin.mihoyo.com/"><img src="https://img.shields.io/badge/Genshin_Impact-708365509-3db8ff?labelColor=3db8ff" /></a> -->
+  <a href="https://genshin.mihoyo.com/"><img src="https://img.shields.io/badge/Genshin_Impact-708365509-3db8ff?labelColor=3db8ff" /></a>
 </p>
 
 <br>
