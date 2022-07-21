@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <foreignObject>
+    <span class="name" style="font-size: 50px; font-family: monospace;">Cherry Pie</span>
+  </foreignObject>
+
+  <style>
+    @media (prefers-color-scheme: dark) {
+      :root {
+        color: red;
+      }
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        color: blue;
+      }
+    }
+  </style>
+</svg>
