@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
   <foreignObject>
-    <span class="name" style="font-size: 50px; font-family: monospace;">Cherry Pie</span>
+    <span xmlns="http://www.w3.org/1999/xhtml" class="name" style="font-size: 50px; font-family: monospace;">Cherry Pie</span>
   </foreignObject>
 
   <style>
