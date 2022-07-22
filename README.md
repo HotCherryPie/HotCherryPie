@@ -8,6 +8,9 @@
 
 <!-- <p align="center">════ ⋆★⋆ ════</p> -->
 <p align="center"> ⋆★⋆ </p>
+<p align="center">
+  <img src="/name.svg" width="100%">
+</p>
 <h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1>
 
 <img src="/kaban.svg" align="left" height="220px">
@@ -43,8 +46,6 @@
 <br>
 <br>
 <br>
-
-<img src="/name.svg" width="100%">
 
 <!-- <img src="/README.gif" width="100%"> -->
 <!-- <img src="https://i.giphy.com/media/GDNpO42UgnRuw/giphy.webp" width="100%"> -->
