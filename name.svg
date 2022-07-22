@@ -9,6 +9,11 @@
 
   <style>
     .root {}
+    .emote {
+      --size: 40px;
+      aspect-ratio: 1/1;
+      display: inline;
+    }
     .name {
       position: absolute;
       inset: 0;
