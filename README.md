@@ -8,13 +8,16 @@
 
 <!-- <p align="center">════ ⋆★⋆ ════</p> -->
 <p align="center"> ⋆★⋆ </p>
-<p align="center">
-  <img src="/name.svg" width="50%">
-</p>
-<!-- <h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1> -->
 
 <img src="/kaban.svg" align="left" height="220px">
 <img src="/kaban.svg" align="right" height="220px">
+
+<p align="center">
+  <img src="/name.svg" width="50%">
+</p>
+
+<!-- <h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1> -->
+
 <p align="center">
   <!--   <a href="#><img src="https://img.shields.io/badge/-🍑-ed0c38" /></a> -->
   <br>
