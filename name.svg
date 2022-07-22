@@ -26,6 +26,7 @@
     }
 
     .greeting {
+      transform: translateY(-50px);
       text-shadow: 0 0 5px #616161c7;
       color: hsl(0deg 0% 17%);
       font-size: 14px;
