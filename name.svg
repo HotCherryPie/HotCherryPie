@@ -34,8 +34,8 @@
     }
 
     @keyframes greeting {
-      from { transform: translateY(0); }
-      to { transform: translateY(5px); }
+      from { transform: translateY(-50px); }
+      to { transform: translateY(-55px); }
     }
     .greeting {
       animation: greeting 2s infinite alternate .3s;
