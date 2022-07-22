@@ -62,7 +62,7 @@
       to { transform: translateY(5px); }
     }
     .name {
-      animation: name 2s infinite alternate;
+      <!-- animation: name 2s infinite alternate; -->
       font-size: 48px;
       text-transform: uppercase;
       --fill: linear-gradient(to bottom right, #fd12d2, #ff4d73, #ff9d47, #ffe20a);
