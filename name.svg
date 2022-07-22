@@ -101,8 +101,8 @@
       to { transform: rotateZ(-20deg); }
     }
     @keyframes swirl-r {
-      from { transform: rotateZ(0deg) scaleX(-1); }
-      to { transform: rotateZ(-20deg) scaleX(-1); }
+      from { transform: rotateZ(0deg) rotateY(180deg); }
+      to { transform: rotateZ(-20deg) rotateY(180deg); }
     }
     .wing.r {
       animation: swirl-r 2s infinite alternate;
