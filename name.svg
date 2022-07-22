@@ -46,7 +46,7 @@
     .greeting {
       will-change: transform;
       animation: greeting 2s infinite alternate .3s;
-      margin-bottom: 100px;
+      margin-bottom: 90px;
       z-index: 1;
       text-shadow: 0 0 5px #616161c7;
       color: hsl(0deg 0% 17%);
