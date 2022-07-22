@@ -21,7 +21,12 @@
       to { background-size: 100%; }
     }
 
+    @keyframes root {
+      from { transform: translateY(0); }
+      to { transform: translateY(5px); }
+    }
     .root {
+      animation: root 2s infinite alternate;
       position: absolute;
       inset: 0;
       display: grid;
@@ -34,8 +39,8 @@
     }
 
     @keyframes greeting {
-      from { transform: translateY(-50px); }
-      to { transform: translateY(-55px); }
+      from { transform: translateY(-55px); }
+      to { transform: translateY(-50px); }
     }
     .greeting {
       animation: greeting 2s infinite alternate .3s;
@@ -57,12 +62,7 @@
       width: var(--size);
     }
 
-    @keyframes name {
-      from { transform: translateY(0); }
-      to { transform: translateY(5px); }
-    }
     .name {
-      animation: name 2s infinite alternate;
       font-size: 48px;
       text-transform: uppercase;
       --fill: linear-gradient(to bottom right, #fd12d2, #ff4d73, #ff9d47, #ffe20a);
