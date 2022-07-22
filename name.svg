@@ -24,6 +24,10 @@
       display: grid;
       place-items: center;
     }
+    .root > * {
+      grid-column: 1 / 1;
+      grid-row: 1 / 1;
+    }
 
     .greeting {
       transform: translateY(-50px);
