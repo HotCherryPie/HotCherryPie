@@ -96,21 +96,24 @@
       pointer-events: none;
     }
 
-    @keyframes swirl {
+    @keyframes swirl-l {
       from { transform: rotateZ(0deg); }
-      50% { transform: rotateZ(-20deg); }
-      to { transform: rotateZ(0deg); }
+      to { transform: rotateZ(-20deg); }
+    }
+    @keyframes swirl-r {
+      from { transform: rotateZ(0deg) scaleX(-1); }
+      to { transform: rotateZ(-20deg) scaleX(-1); }
     }
     .wing.r {
-      <!-- transform: rotateY(180deg) -->
+      animation: swirl-r 2s infinite alternate;
       margin-left: 250px;
     }
     .wing.l {
+      animation: swirl-l 2s infinite alternate;
       margin-right: 250px;
     }
     .wing {
-      animation: swirl 2s infinite;
-      transform-origin: calc(72px / 2) calc(77px / 2);
+      transform-origin: calc(72px / 2) calc(79px / 2);
       z-index: 1;
       width: calc(87px / 2);
       height: calc(107px / 2);
