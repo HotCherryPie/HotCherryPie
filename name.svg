@@ -97,7 +97,7 @@
     }
 
     .wing.r {
-      transform: rotatex(180deg);
+      transform: rotateY(180deg) translateX(50px);
     }
     .wing {
       z-index: 1;
