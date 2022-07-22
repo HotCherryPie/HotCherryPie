@@ -3,8 +3,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml" class="root">
       <div class="greeting">HI, MY NAME IS</div>
 
-      <div class="wing l"></div>
-      <div class="wing r"></div>
+      <div class="wing l"><div></div></div>
+      <div class="wing r"><div></div></div>
 
       <div class="name">
         <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
@@ -112,21 +112,29 @@
       to { transform: rotateZ(-20deg); }
     }
     @keyframes swirl-r {
-      from { transform: rotateZ(0deg) rotateY(180deg); }
-      to { transform: rotateZ(-20deg) rotateY(180deg); }
+      from { transform: rotateZ(0deg) }
+      to { transform: rotateZ(20deg) }
     }
+  
     .wing.r {
       animation-name: swirl-r;
       margin-left: 250px;
     }
+    .wing.r > div {
+      transform: rotateY(180deg);
+    }
+
     .wing.l {
       animation-name: swirl-l;
       margin-right: 250px;
     }
+
     .wing {
       animation: 2s infinite alternate;
       transform-origin: calc(72px / 2) calc(79px / 2);
       z-index: 1;
+    }
+    .wing > div {
       width: calc(87px / 2);
       height: calc(107px / 2);
       background-size: contain;
