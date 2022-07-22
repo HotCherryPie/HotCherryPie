@@ -23,6 +23,7 @@
       inset: 0;
       display: grid;
       place-items: center;
+      font-family: 'Some Font';
     }
     .root > * {
       grid-column: 1 / 1;
@@ -50,7 +51,6 @@
     .name {
       font-size: 48px;
       text-transform: uppercase;
-      font-family: 'Some Font';
       --fill: linear-gradient(to bottom right, #fd12d2, #ff4d73, #ff9d47, #ffe20a);
       --align: center;
       display: grid;
