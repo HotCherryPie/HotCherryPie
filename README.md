@@ -13,7 +13,7 @@
 <img src="/kaban.svg" align="right" height="220px">
 
 <p align="center">
-  <img src="/name.svg" width="50%">
+  <img src="/name.svg" width="40%">
 </p>
 
 <!-- <h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1> -->
