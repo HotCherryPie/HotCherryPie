@@ -102,16 +102,15 @@
       to { transform: rotateZ(0deg); }
     }
     .wing.r {
-      <!-- transform: rotateY(180deg) translateX(-125px); -->
-      margin-left: 125px;
+      <!-- transform: rotateY(180deg) -->
+      margin-left: 250px;
     }
     .wing.l {
-      <!-- transform: translateX(-125px); -->
-      margin-right: 125px;
+      margin-right: 250px;
     }
     .wing {
       animation: swirl 2s infinite;
-      transform-origin: calc(71px / 2) calc(78px / 2);
+      transform-origin: calc(72px / 2) calc(77px / 2);
       z-index: 1;
       width: calc(87px / 2);
       height: calc(107px / 2);
