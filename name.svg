@@ -97,9 +97,9 @@
     }
 
     @keyframes swirl {
-      from: { transform: rotateZ(0deg); }
-      50%: { transform: rotateZ(-20deg); }
-      to: { transform: rotateZ(0deg); }
+      from { transform: rotateZ(0deg); }
+      50% { transform: rotateZ(-20deg); }
+      to { transform: rotateZ(0deg); }
     }
     .wing.r {
       transform: rotateY(180deg) translateX(-125px);
