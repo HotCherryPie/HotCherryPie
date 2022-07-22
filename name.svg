@@ -73,7 +73,7 @@
       display: grid;
       grid-template: 1fr / 1fr;
       place-items: center;
-      filter: drop-shadow(0 2px 1px rgba(0,0,0,0.1)) drop-shadow(0 6px 12px rgba(0,0,0,0.2));
+      filter: drop-shadow(0 2px 1px rgba(0,0,0,0.1)) drop-shadow(0 6px 12px rgba(0,0,0,0.1));
     }
     .name > div {
       animation: fill 3s infinite;
