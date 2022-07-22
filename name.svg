@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 130">
-  <foreignObject width="100%" height="100%" class="root">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 130" shape-rendering="geometricPrecision">
+  <foreignObject width="100%" height="100%" class="root" shape-rendering="geometricPrecision">
     <div xmlns="http://www.w3.org/1999/xhtml" class="root">
       <div class="greeting">HI, MY NAME IS</div>
 
@@ -22,7 +22,6 @@
     }
 
     .root {
-      text-rendering: geometricPrecision;
       position: absolute;
       inset: 0;
       display: grid;
@@ -39,7 +38,6 @@
       to { transform: translateY(5px); }
     }
     .greeting {
-      text-rendering: geometricPrecision;
       animation: greeting 2s infinite alternate .3s;
       transform: translateY(-50px);
       z-index: 1;
