@@ -1,20 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 130">
   <foreignObject width="100%" height="100%" class="root">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="name">
-      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
-      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
-      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+    <div class="root">
+      <div class="greeting">HI, MY NAME IS</div>
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="name">
+        <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+        <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+        <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+      </div>
     </div>
   </foreignObject>
 
   <style>
     @keyframes fill {
-      from { background-size: 100%; } 
+      from { background-size: 100%; }
       50% { background-size: 150%; }
       to { background-size: 100%; }
     }
 
-    .root {}
+    .root {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+    }
+
+    .greeting {
+      text-shadow: 0 0 5px #616161c7;
+      color: hsl(0deg 0% 17%);
+      font-size: 14px;
+      padding: 2px 8px;
+      background: #fff;
+      filter: url(data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3Cdefs%3E%3Cfilter id='filter'%3E%3CfeGaussianBlur in='SourceGraphic' stdDeviation='3' result='blur'%3E%3C/feGaussianBlur%3E%3CfeColorMatrix in='blur' mode='matrix' values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 20 -8' result='goo'%3E%3C/feColorMatrix%3E%3CfeComposite in='SourceGraphic' in2='goo' operator='atop'%3E%3C/feComposite%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E#filter) drop-shadow(0 2px 1px rgba(0, 0, 0, 0.1)) drop-shadow(0 6px 12px rgba(0, 0, 0, 0.2));
+    }
+
     .emote {
       --size: 34px;
       --size: 0;
@@ -23,8 +42,6 @@
       width: var(--size);
     }
     .name {
-      position: absolute;
-      inset: 0;
       font-size: 48px;
       text-transform: uppercase;
       font-family: 'Some Font';
@@ -37,6 +54,7 @@
     }
     .name > div {
       animation: fill 3s infinite;
+      background-position: center;
       grid-column: 1/1;
       grid-row: 1/1;
       position: relative;
