@@ -120,7 +120,7 @@
   
     .wing.r {
       animation-name: swirl-r;
-      margin-left: 250px;
+      margin-left: var(--offset);
       transform-origin: calc(100% - (72px / 2)) calc(79px / 2);
     }
     .wing.r > div {
@@ -129,11 +129,12 @@
 
     .wing.l {
       animation-name: swirl-l;
-      margin-right: 250px;
+      margin-right: var(--offset);
       transform-origin: calc(72px / 2) calc(79px / 2);
     }
 
     .wing {
+      --offset: 210px;
       animation: 2s infinite alternate;
       z-index: 1;
     }
