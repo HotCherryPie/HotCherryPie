@@ -22,6 +22,7 @@
     }
 
     .root {
+      text-rendering: geometricPrecision;
       position: absolute;
       inset: 0;
       display: grid;
@@ -38,7 +39,8 @@
       to { transform: translateY(5px); }
     }
     .greeting {
-      <!-- animation: greeting 2s infinite alternate .3s; -->
+      text-rendering: geometricPrecision;
+      animation: greeting 2s infinite alternate .3s;
       transform: translateY(-50px);
       z-index: 1;
       text-shadow: 0 0 5px #616161c7;
@@ -62,7 +64,7 @@
       to { transform: translateY(5px); }
     }
     .name {
-      <!-- animation: name 2s infinite alternate; -->
+      animation: name 2s infinite alternate;
       font-size: 48px;
       text-transform: uppercase;
       --fill: linear-gradient(to bottom right, #fd12d2, #ff4d73, #ff9d47, #ffe20a);
