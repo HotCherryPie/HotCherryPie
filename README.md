@@ -9,7 +9,7 @@
 <!-- <p align="center">════ ⋆★⋆ ════</p> -->
 <p align="center"> ⋆★⋆ </p>
 <p align="center">
-  <img src="/name.svg" width="100%">
+  <img src="/name.svg" width="50%">
 </p>
 <h1 align="center"><img height="18px" src="./lickR.gif" /> <samp>Cherry Pie</samp> <img height="18px" src="./lickL.gif" /></h1>
 
