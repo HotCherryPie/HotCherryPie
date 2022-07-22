@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
   <foreignObject width="100%" height="100%" class="root">
     <div xmlns="http://www.w3.org/1999/xhtml" class="name">
-      <div><span>Cherry Pie</span></div>
-      <div><span>Cherry Pie</span></div>
-      <div><span>Cherry Pie</span></div>
+      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
+      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
+      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
     </div>
   </foreignObject>
 
