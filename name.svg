@@ -33,7 +33,12 @@
       grid-row: 1 / 1;
     }
 
+    @keyframes greeting {
+      from { transform: translateY(0); }
+      to { transform: translateY(5px); }
+    }
     .greeting {
+      animation: greeting 2s infinite alternate .3s;
       z-index: 1;
       transform: translateY(-50px);
       text-shadow: 0 0 5px #616161c7;
@@ -51,7 +56,13 @@
       display: inline-block;
       width: var(--size);
     }
+
+    @keyframes name {
+      from { transform: translateY(0); }
+      to { transform: translateY(5px); }
+    }
     .name {
+      animation: name 2s infinite alternate;
       font-size: 48px;
       text-transform: uppercase;
       --fill: linear-gradient(to bottom right, #fd12d2, #ff4d73, #ff9d47, #ffe20a);
@@ -105,14 +116,15 @@
       to { transform: rotateZ(-20deg) rotateY(180deg); }
     }
     .wing.r {
-      animation: swirl-r 2s infinite alternate;
+      animation-name: swirl-r;
       margin-left: 250px;
     }
     .wing.l {
-      animation: swirl-l 2s infinite alternate;
+      animation-name: swirl-l;
       margin-right: 250px;
     }
     .wing {
+      animation: 2s infinite alternate;
       transform-origin: calc(72px / 2) calc(79px / 2);
       z-index: 1;
       width: calc(87px / 2);
