@@ -96,6 +96,11 @@
       pointer-events: none;
     }
 
+    @keyframes swirl {
+      from: { transform: rotateZ(0deg); }
+      50%: { transform: rotateZ(-20deg); }
+      to: { transform: rotateZ(0deg); }
+    }
     .wing.r {
       transform: rotateY(180deg) translateX(-125px);
     }
@@ -103,6 +108,8 @@
       transform: translateX(-125px);
     }
     .wing {
+      animation: swirl 2s infinite;
+      transform-origin: 
       z-index: 1;
       width: calc(87px / 2);
       height: calc(107px / 2);
