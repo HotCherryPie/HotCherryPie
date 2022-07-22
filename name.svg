@@ -27,6 +27,7 @@
     }
     .root {
       animation: root 2s infinite alternate;
+      will-change: transform;
       position: absolute;
       inset: 0;
       display: grid;
