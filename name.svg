@@ -38,9 +38,9 @@
       to { transform: translateY(5px); }
     }
     .greeting {
-      animation: greeting 2s infinite alternate .3s;
-      z-index: 1;
+      <!-- animation: greeting 2s infinite alternate .3s; -->
       transform: translateY(-50px);
+      z-index: 1;
       text-shadow: 0 0 5px #616161c7;
       color: hsl(0deg 0% 17%);
       font-size: 14px;
