@@ -109,7 +109,7 @@
     }
     .wing {
       animation: swirl 2s infinite;
-      transform-origin: 
+      transform-origin: 71px 78px;
       z-index: 1;
       width: calc(87px / 2);
       height: calc(107px / 2);
