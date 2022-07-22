@@ -97,7 +97,10 @@
     }
 
     .wing.r {
-      transform: rotateY(180deg) translateX(50px);
+      transform: rotateY(180deg) translateX(-120px);
+    }
+    .wing.l {
+      transform: translateX(-120px);
     }
     .wing {
       z-index: 1;
