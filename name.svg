@@ -1,18 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 130">
   <foreignObject width="100%" height="100%" class="root">
     <div xmlns="http://www.w3.org/1999/xhtml" class="name">
-      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
-      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
-      <div><div class="emote"></div><span>Cherry Pie</span><div class="emote"></div></div>
+      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
+      <div><span><div class="emote"></div>Cherry Pie<div class="emote"></div></span></div>
     </div>
   </foreignObject>
 
   <style>
     .root {}
     .emote {
-      --size: 40px;
+      --size: 34px;
+      --size: 0;
       aspect-ratio: 1/1;
-      display: inline;
+      display: inline-block;
+      width: var(--size);
     }
     .name {
       position: absolute;
