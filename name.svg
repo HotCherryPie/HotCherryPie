@@ -8,6 +8,12 @@
   </foreignObject>
 
   <style>
+    @keyframes fill {
+      from { background-size: 100%; } 
+      50% { background-size: 150%; }
+      to { background-size: 100%; }
+    }
+
     .root {}
     .emote {
       --size: 34px;
@@ -30,6 +36,7 @@
       filter: drop-shadow(0 2px 1px rgba(0,0,0,0.1)) drop-shadow(0 6px 12px rgba(0,0,0,0.2));
     }
     .name > div {
+      animation: fill 3s infinite;
       grid-column: 1/1;
       grid-row: 1/1;
       position: relative;
