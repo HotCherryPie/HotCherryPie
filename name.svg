@@ -41,11 +41,11 @@
 
     @keyframes greeting {
       from { transform: translateY(0); }
-      to { transform: translateY(-5px); }
+      to { transform: translateY(5px); }
     }
     .greeting {
       animation: greeting 2s infinite alternate .3s;
-      margin-bottom: 50px;
+      margin-bottom: 55px;
       z-index: 1;
       text-shadow: 0 0 5px #616161c7;
       color: hsl(0deg 0% 17%);
