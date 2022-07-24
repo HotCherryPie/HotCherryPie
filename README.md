@@ -36,7 +36,7 @@
   <br>
   <a href="https://codepen.io/amazing-vishnya"><img src="https://img.shields.io/badge/codepen-1e1f26?logo=codepen&labelColor=1e1f26&logoColor=white" /></a>
   <br>
-  <!--<a href="https://genshin.mihoyo.com/"><img src="https://img.shields.io/badge/Genshin_Impact-708365509-3db8ff?labelColor=3db8ff" /></a> -->
+  <!--<a href="https://genshin.hoyoverse.com/"><img src="https://img.shields.io/badge/Genshin_Impact-708365509-3db8ff?labelColor=3db8ff" /></a> -->
 </p>
 
 <br>
