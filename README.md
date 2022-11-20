@@ -32,7 +32,7 @@
   <a href="https://github.com/HotCherryPie/doodles.vue"><img src="https://img.shields.io/badge/-doodles-3fb984?logo=vue.js&labelColor=3fb984&logoColor=white" /></a>
   <a href="https://github.com/HotCherryPie/doodles.react"><img src="https://img.shields.io/badge/-doodles-61dafb?logo=react&labelColor=61dafb&logoColor=white" /></a>
   <br> -->
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-peach%231234-434cb0?logo=discord&logoColor=white&labelColor=5865f2" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-girl%230069-434cb0?logo=discord&logoColor=white&labelColor=5865f2" /></a>
   <br>
   <a href="https://codepen.io/amazing-vishnya"><img src="https://img.shields.io/badge/codepen-1e1f26?logo=codepen&labelColor=1e1f26&logoColor=white" /></a>
   <br>
